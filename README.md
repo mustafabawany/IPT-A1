@@ -28,6 +28,9 @@ application would have the following functionalities:
 </ul>
 Note: To display all scripts and their prices, you can enhance your output from question 2 to achieve
 better performance.
+<br>
+<br>
+<img src="https://github.com/mustafabawany/Information-Processing-Technique-Assignment-01/blob/main/Output/DesktopOutput.png" , height="350px" , width="350px">
 
 ## Question 04: Displaying On A Web App
 
