@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>Cordoba Logistics &amp; Ventures Limited</Script>
+    <Price>8.23</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pak International Airline Corp Ltd</Script>
+    <Price>4.24</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Int.Container Terminal.</Script>
+    <Price>160.60</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Intl. Bulk Terminal Ltd.</Script>
+    <Price>5.46</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan National Shipping Co.</Script>
+    <Price>81</Price>
+  </Scripts>
+</ArrayOfScripts>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>Asim Textile Mills Ltd.</Script>
+    <Price>6.19</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Bilal Fibres Ltd. [ DEFAULTER SEGMENT ]</Script>
+    <Price>2.35</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Chakwal Spinning Mills Limited. [ DEFAULTER SEGMENT ]</Script>
+    <Price>1.74</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Colony Textile Mills Ltd.</Script>
+    <Price>3.64</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Crescent Cotton Mills Limited.</Script>
+    <Price>36</Price>
+  </Scripts>
+  <Scripts>
+    <Script>D. S. Industries Ltd.</Script>
+    <Price>3.21</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Dewan Farooque Spinning Mills Ltd.</Script>
+    <Price>2.18</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Gadoon Textile Mills Ltd.</Script>
+    <Price>220</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Hira Textile Mills Ltd. [ DEFAULTER SEGMENT ]</Script>
+    <Price>1.90</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Indus Dyeing &amp; Manufacturing.</Script>
+    <Price>209.46</Price>
+  </Scripts>
+  <Scripts>
+    <Script>J. K. Spinning Mills Ltd.(XD)</Script>
+    <Price>43</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Janana De Malucha Tex Mills.</Script>
+    <Price>43</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Kohat Textile Mills Ltd.</Script>
+    <Price>15.79</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Kohinoor Spinning Mills Ltd.</Script>
+    <Price>3.01</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Nagina Cotton Mills Ltd.</Script>
+    <Price>74</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Nazir Cotton Mills Ltd. [ DEFAULTER SEGMENT ]</Script>
+    <Price>3.24</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Premium Textile Mills Ltd.</Script>
+    <Price>650.10</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Sana Industries Ltd.</Script>
+    <Price>42.25</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Saritow Spinning Mills Ltd.</Script>
+    <Price>6.81</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Shadab Textile Mills Ltd.</Script>
+    <Price>18.50</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Sunrays Textile Mills Ltd.</Script>
+    <Price>186.50</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Tata Textile Mills Ltd. (XD)</Script>
+    <Price>55.01</Price>
+  </Scripts>
+</ArrayOfScripts>

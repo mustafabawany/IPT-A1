@@ -23,7 +23,7 @@ namespace K191273_Qs4.Controllers
         public ActionResult All()
         {
             var path = System.Web.Configuration.WebConfigurationManager.AppSettings["folderPath"].ToString();
-            foreach (string f in Directory.GetDirectories(@"E:\K191273_MustafaBawany\Categories"))
+            foreach (string f in Directory.GetDirectories(@path))
             {
                 var filename = Directory.GetFiles(f);
 

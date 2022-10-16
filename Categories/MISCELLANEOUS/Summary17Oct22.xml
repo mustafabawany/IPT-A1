@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>AKD Hospitality Limited</Script>
+    <Price>149.89</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Al-Khair Gadoon Ltd.</Script>
+    <Price>27</Price>
+  </Scripts>
+  <Scripts>
+    <Script>ECOPAK Limited.(XB)</Script>
+    <Price>25.41</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Gammon Pak.</Script>
+    <Price>6.24</Price>
+  </Scripts>
+  <Scripts>
+    <Script>MACPAC Films Limited.(XD)</Script>
+    <Price>14.73</Price>
+  </Scripts>
+  <Scripts>
+    <Script>MetaTech Health Limited</Script>
+    <Price>13.32</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Olympia Mills Limited.</Script>
+    <Price>16.51</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Aluminium Beverage Cans Ltd</Script>
+    <Price>42.55</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Hotels Developers Ltd.</Script>
+    <Price>89</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Shifa Int. Hospital Ltd.</Script>
+    <Price>145.06</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Siddiqsons Tin Plate Ltd.</Script>
+    <Price>8.67</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Synthetic Products Ent. Ltd.</Script>
+    <Price>14.01</Price>
+  </Scripts>
+  <Scripts>
+    <Script>United Brands Limited.</Script>
+    <Price>14.40</Price>
+  </Scripts>
+  <Scripts>
+    <Script>United Distributors Pakistan.</Script>
+    <Price>36.75</Price>
+  </Scripts>
+</ArrayOfScripts>

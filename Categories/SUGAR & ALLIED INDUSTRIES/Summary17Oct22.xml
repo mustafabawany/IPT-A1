@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>Abdullah Shah Ghazi Sugar Mills Ltd.</Script>
+    <Price>7.77</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Al-Abbas Sugar Mills Ltd.</Script>
+    <Price>303.39</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Dewan Sugar Mills Ltd. [ DEFAULTER SEGMENT ]</Script>
+    <Price>2.20</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Habib Rice Product Ltd.(XD)</Script>
+    <Price>35</Price>
+  </Scripts>
+  <Scripts>
+    <Script>J. D. W. Sugar Mills Ltd.</Script>
+    <Price>416.31</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Jauharabad Sugar Mills Ltd.</Script>
+    <Price>13.91</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Mehran Sugar Mills Ltd.(XB)</Script>
+    <Price>35.50</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Sakrand Sugar Mills Ltd. [ DEFAULTER SEGMENT ]</Script>
+    <Price>9.04</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Tariq Corporation Ltd.</Script>
+    <Price>12.98</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Thal Industries Corporation Ltd.</Script>
+    <Price>299.90</Price>
+  </Scripts>
+</ArrayOfScripts>

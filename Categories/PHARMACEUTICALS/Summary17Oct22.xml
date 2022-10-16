@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>Abbott Laboratories Pak Ltd.</Script>
+    <Price>585.98</Price>
+  </Scripts>
+  <Scripts>
+    <Script>AGP Limited.</Script>
+    <Price>81.01</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Citi Pharma Limited</Script>
+    <Price>30.49</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Ferozsons Laboratories Ltd.</Script>
+    <Price>199.46</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Glaxo SmithKline Healthcare Pak Ltd.</Script>
+    <Price>205.55</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Glaxo SmithKline Pakistan Ltd.</Script>
+    <Price>111.95</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Highnoon Laboratories Ltd.</Script>
+    <Price>536.10</Price>
+  </Scripts>
+  <Scripts>
+    <Script>IBL HealthCare Limited.</Script>
+    <Price>48.17</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Otsuka Pakistan Ltd.</Script>
+    <Price>135.01</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Sanofi-Aventis Pakistan Ltd.</Script>
+    <Price>1128</Price>
+  </Scripts>
+  <Scripts>
+    <Script>The Searle Company Ltd.</Script>
+    <Price>103.65</Price>
+  </Scripts>
+</ArrayOfScripts>

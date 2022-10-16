@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>Khyber Tobacco Co. Ltd.</Script>
+    <Price>267.05</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Tobacco Co Ltd.</Script>
+    <Price>781.41</Price>
+  </Scripts>
+</ArrayOfScripts>

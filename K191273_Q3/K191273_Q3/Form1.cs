@@ -25,7 +25,7 @@ namespace K191273_Q3
         public String extractCategory(String foldername)
         {
             String category = "";
-            category = foldername.Substring(20);
+            category = foldername.Substring(foldername.LastIndexOf("\\") + 1);
             return category;
         }
 
@@ -40,7 +40,8 @@ namespace K191273_Q3
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            foreach (string f in Directory.GetDirectories(@"E:\Lab02\Categories"))
+            var path = System.Configuration.ConfigurationManager.AppSettings["folderPath"];
+            foreach (string f in Directory.GetDirectories(@path))
             {
                 var filename = Directory.GetFiles(f);
 

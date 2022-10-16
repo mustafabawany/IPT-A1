@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>Agritech Limited</Script>
+    <Price>6.26</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Bawany Air Products Ltd. [ DEFAULTER SEGMENT ]</Script>
+    <Price>10.48</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Berger Paints Pakistan Ltd.</Script>
+    <Price>79.05</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Bifo Industries Ltd.(XD)</Script>
+    <Price>61</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Buxly Paints Ltd.</Script>
+    <Price>96.92</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Colgate Palmolive (Pak) Ltd.(XB)</Script>
+    <Price>2086.30</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Data Agro Limited</Script>
+    <Price>16.90</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Descon Oxychem Ltd.(XD)</Script>
+    <Price>23.09</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Engro Polymer &amp; Chemical Pref.Shares</Script>
+    <Price>12</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Engro Polymer &amp; Chemicals Ltd.</Script>
+    <Price>57.97</Price>
+  </Scripts>
+  <Scripts>
+    <Script>G3 Technologies Limited</Script>
+    <Price>9.52</Price>
+  </Scripts>
+  <Scripts>
+    <Script>G3 Technologies Limited-Class-B</Script>
+    <Price>1.72</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Ghani Global Holdings Limited.</Script>
+    <Price>17.06</Price>
+  </Scripts>
+  <Scripts>
+    <Script>ICI Pakistan Limited.</Script>
+    <Price>664.79</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Ittehad Chemical Ltd.</Script>
+    <Price>28.96</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Leiner Pak Gelantine Limited.</Script>
+    <Price>15.05</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Lotte Chemical Pakistan Ltd.</Script>
+    <Price>32.09</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Nimir Resins Limited.</Script>
+    <Price>15.49</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Oxygen Limited.</Script>
+    <Price>133.05</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Sitara Chemicals.(XD)</Script>
+    <Price>250</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Sitara Peroxide Limited</Script>
+    <Price>16.22</Price>
+  </Scripts>
+</ArrayOfScripts>

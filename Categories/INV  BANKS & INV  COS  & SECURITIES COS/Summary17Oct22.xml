@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>AKD Securities Ltd.</Script>
+    <Price>22.73</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Arif Habib Limited.(XD)</Script>
+    <Price>38.08</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Cyan Limited.</Script>
+    <Price>23.54</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Dawood Equities Ltd.</Script>
+    <Price>5.57</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Dawood Hercules Corporation Ltd.</Script>
+    <Price>91.10</Price>
+  </Scripts>
+  <Scripts>
+    <Script>EFG Hermes Pakistan Ltd.</Script>
+    <Price>16.34</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Escorts Investment Bank Ltd.</Script>
+    <Price>5.34</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Capital Sec.Corp. Ltd.</Script>
+    <Price>1.42</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Credit &amp; Investment Bank Ltd.</Script>
+    <Price>6.50</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Dawood Investment Bank Ltd.</Script>
+    <Price>2</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First National Equities Limited.</Script>
+    <Price>5.11</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Invest Capital Investment Bank Ltd.</Script>
+    <Price>1.44</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Jahangir Siddiqui &amp; Co. (Pref Sh.)</Script>
+    <Price>8.25</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Jahangir Siddiqui &amp; Company Ltd.</Script>
+    <Price>12.88</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Next Capital Limited.(XB)</Script>
+    <Price>6.45</Price>
+  </Scripts>
+  <Scripts>
+    <Script>OLP Financial Services Pakistan Ltd.</Script>
+    <Price>22.90</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Stock Exchange Limited.</Script>
+    <Price>9.88</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pervez Ahmed Consultancy Services Ltd. [ DEFAULTER SEGMENT ]</Script>
+    <Price>0.87</Price>
+  </Scripts>
+</ArrayOfScripts>

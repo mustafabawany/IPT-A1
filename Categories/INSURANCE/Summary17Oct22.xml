@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>Adamjee Insurance Co. Ltd.</Script>
+    <Price>29.75</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Askari Gen Insurance Co.</Script>
+    <Price>16.70</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Cresent Star Insurance Ltd.</Script>
+    <Price>1.72</Price>
+  </Scripts>
+  <Scripts>
+    <Script>IGI Holdings Limited.</Script>
+    <Price>95</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Reinsurance Comp.</Script>
+    <Price>7.42</Price>
+  </Scripts>
+  <Scripts>
+    <Script>PICIC Insurance Ltd. [ DEFAULTER SEGMENT ]</Script>
+    <Price>1.05</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Reliance Insurance.</Script>
+    <Price>6.99</Price>
+  </Scripts>
+  <Scripts>
+    <Script>United Insurance Company.</Script>
+    <Price>7.41</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Universal Insurance Company Ltd.</Script>
+    <Price>4</Price>
+  </Scripts>
+</ArrayOfScripts>

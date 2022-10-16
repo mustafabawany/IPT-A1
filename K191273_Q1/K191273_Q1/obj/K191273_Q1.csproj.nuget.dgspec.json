@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Lab02\\K191273_Q1\\K191273_Q1\\K191273_Q1.csproj": {}
+    "E:\\K191273_MMustafaBawany\\K191273_Q1\\K191273_Q1\\K191273_Q1.csproj": {}
   },
   "projects": {
-    "E:\\Lab02\\K191273_Q1\\K191273_Q1\\K191273_Q1.csproj": {
+    "E:\\K191273_MMustafaBawany\\K191273_Q1\\K191273_Q1\\K191273_Q1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Lab02\\K191273_Q1\\K191273_Q1\\K191273_Q1.csproj",
+        "projectUniqueName": "E:\\K191273_MMustafaBawany\\K191273_Q1\\K191273_Q1\\K191273_Q1.csproj",
         "projectName": "K191273_Q1",
-        "projectPath": "E:\\Lab02\\K191273_Q1\\K191273_Q1\\K191273_Q1.csproj",
+        "projectPath": "E:\\K191273_MMustafaBawany\\K191273_Q1\\K191273_Q1\\K191273_Q1.csproj",
         "packagesPath": "C:\\Users\\mmust\\.nuget\\packages\\",
-        "outputPath": "E:\\Lab02\\K191273_Q1\\K191273_Q1\\obj\\",
+        "outputPath": "E:\\K191273_MMustafaBawany\\K191273_Q1\\K191273_Q1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mmust\\AppData\\Roaming\\NuGet\\NuGet.Config",

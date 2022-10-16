@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>Altern Energy Ltd.</Script>
+    <Price>18.25</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Engro Powergen Qadirpur Ltd.</Script>
+    <Price>26.03</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Hub Power Company Limited.(XD)</Script>
+    <Price>63.58</Price>
+  </Scripts>
+  <Scripts>
+    <Script>K-Electric Limited.</Script>
+    <Price>2.92</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Kohinoor Energy Ltd.</Script>
+    <Price>34.20</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Kot Addu Power Company.</Script>
+    <Price>31.64</Price>
+  </Scripts>
+  <Scripts>
+    <Script>LALPIR Power Limited.</Script>
+    <Price>13.22</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Nishat Chunian Power Ltd.</Script>
+    <Price>14.01</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Nishat Power Limited.(XD)</Script>
+    <Price>19.36</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Saif Power Ltd.</Script>
+    <Price>19.28</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Tri -Star Power Ltd.</Script>
+    <Price>4.34</Price>
+  </Scripts>
+</ArrayOfScripts>

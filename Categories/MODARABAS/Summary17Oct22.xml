@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>B.R.R. Guardian Modaraba.</Script>
+    <Price>12.18</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Al-Noor Mod.</Script>
+    <Price>3.74</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Elite Capital Mod.</Script>
+    <Price>3.15</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Fidelity Leasing Mod.</Script>
+    <Price>2.24</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Habib Mod.(XD)</Script>
+    <Price>8.07</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Prudential Mod.</Script>
+    <Price>1.70</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Punjab Mod.</Script>
+    <Price>1.80</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Treet Manufacturing Modaraba.</Script>
+    <Price>9.37</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First UDL Mod.</Script>
+    <Price>7.49</Price>
+  </Scripts>
+  <Scripts>
+    <Script>KASB Modaraba.</Script>
+    <Price>1.53</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Modarba Al-Mali.</Script>
+    <Price>5.80</Price>
+  </Scripts>
+  <Scripts>
+    <Script>OLP Modaraba.</Script>
+    <Price>15.90</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Popular Islamic Madaraba</Script>
+    <Price>8.51</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Sindh Modaraba.</Script>
+    <Price>8.46</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Trust Mod.</Script>
+    <Price>1.95</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Unicap Modaraba.</Script>
+    <Price>2.20</Price>
+  </Scripts>
+</ArrayOfScripts>

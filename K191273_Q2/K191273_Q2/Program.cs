@@ -114,7 +114,8 @@ namespace K191273_Q2
         }
         static void Main(string[] args)
         {
-            String html = File.ReadAllText(@"D:\\index.html");
+            var path = System.Configuration.ConfigurationManager.AppSettings["HtmlFilePath"];
+            String html = File.ReadAllText(path + "\\index.html");
             Serialize(html);
             Console.WriteLine("Files have been created.");
             Console.ReadKey();
