@@ -1,0 +1,17 @@
+E:\Lab02\K191273_Q3\K191273_Q3\bin\Debug\netcoreapp3.1\K191273_Q3.exe
+E:\Lab02\K191273_Q3\K191273_Q3\bin\Debug\netcoreapp3.1\K191273_Q3.deps.json
+E:\Lab02\K191273_Q3\K191273_Q3\bin\Debug\netcoreapp3.1\K191273_Q3.runtimeconfig.json
+E:\Lab02\K191273_Q3\K191273_Q3\bin\Debug\netcoreapp3.1\K191273_Q3.runtimeconfig.dev.json
+E:\Lab02\K191273_Q3\K191273_Q3\bin\Debug\netcoreapp3.1\K191273_Q3.dll
+E:\Lab02\K191273_Q3\K191273_Q3\bin\Debug\netcoreapp3.1\K191273_Q3.pdb
+E:\Lab02\K191273_Q3\K191273_Q3\obj\Debug\netcoreapp3.1\K191273_Q3.csproj.AssemblyReference.cache
+E:\Lab02\K191273_Q3\K191273_Q3\obj\Debug\netcoreapp3.1\K191273_Q3.Form1.resources
+E:\Lab02\K191273_Q3\K191273_Q3\obj\Debug\netcoreapp3.1\K191273_Q3.csproj.GenerateResource.cache
+E:\Lab02\K191273_Q3\K191273_Q3\obj\Debug\netcoreapp3.1\K191273_Q3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lab02\K191273_Q3\K191273_Q3\obj\Debug\netcoreapp3.1\K191273_Q3.AssemblyInfoInputs.cache
+E:\Lab02\K191273_Q3\K191273_Q3\obj\Debug\netcoreapp3.1\K191273_Q3.AssemblyInfo.cs
+E:\Lab02\K191273_Q3\K191273_Q3\obj\Debug\netcoreapp3.1\K191273_Q3.csproj.CoreCompileInputs.cache
+E:\Lab02\K191273_Q3\K191273_Q3\obj\Debug\netcoreapp3.1\K191273_Q3.dll
+E:\Lab02\K191273_Q3\K191273_Q3\obj\Debug\netcoreapp3.1\K191273_Q3.pdb
+E:\Lab02\K191273_Q3\K191273_Q3\obj\Debug\netcoreapp3.1\K191273_Q3.genruntimeconfig.cache
+E:\Lab02\K191273_Q3\K191273_Q3\obj\Debug\netcoreapp3.1\K191273_Q3.Properties.Resources.resources
