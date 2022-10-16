@@ -20,10 +20,12 @@ repeated but previously generated files should persist.
 
 Create a Windows Form Application which will read data generated from Question 2 as an input. The
 application would have the following functionalities:
-• User can see a list of All Scripts and Current Price
-• User has a dropdown to Filter by Category and see current prices of all scripts which belong to
-that category.
-• User can click on refresh to reload the data
+<ul>
+  <li>User can see a list of All Scripts and Current Price</li>
+  <li>User has a dropdown to Filter by Category and see current prices of all scripts which belong to
+  that category</li>
+  <li>User can click on refresh to reload the data</li>
+</ul>
 Note: To display all scripts and their prices, you can enhance your output from question 2 to achieve
 better performance.
 
