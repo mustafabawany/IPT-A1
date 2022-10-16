@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>Alfalah Consumer Index ETF.</Script>
+    <Price>8.25</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Meezan Pakistan ETF</Script>
+    <Price>8.12</Price>
+  </Scripts>
+</ArrayOfScripts>

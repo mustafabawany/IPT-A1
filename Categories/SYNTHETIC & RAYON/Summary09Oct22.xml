@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>Image Pakistan Limited</Script>
+    <Price>14.22</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Synthetics Ltd.</Script>
+    <Price>44.51</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Rupali Polyester Ltd.</Script>
+    <Price>39.90</Price>
+  </Scripts>
+</ArrayOfScripts>

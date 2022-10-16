@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>Agriautos Industries Co. Ltd.</Script>
+    <Price>122.97</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Atlas Battery Ltd.</Script>
+    <Price>151.60</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Exide Pakistan Ltd.</Script>
+    <Price>240.54</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Ghandhara Tyre &amp; Rubber Company Ltd.</Script>
+    <Price>34.40</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Loads Limited.</Script>
+    <Price>8.90</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Panther Tyres Limited</Script>
+    <Price>29.79</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Thal Limited.</Script>
+    <Price>271.17</Price>
+  </Scripts>
+</ArrayOfScripts>

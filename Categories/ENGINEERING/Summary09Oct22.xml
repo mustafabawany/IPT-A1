@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>Ados Pakistan Limited.</Script>
+    <Price>31.17</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Agha Steel Industries Ltd.</Script>
+    <Price>16.07</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Aisha Steel Mills Limited.</Script>
+    <Price>10.08</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Amreli Steels Limited.</Script>
+    <Price>27.62</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Beco Steel Limited</Script>
+    <Price>13.52</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Bolan Casting Ltd.</Script>
+    <Price>41.88</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Crescent Steel &amp; Allied Product.</Script>
+    <Price>38</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Dost Steels Ltd. [ DEFAULTER SEGMENT ]</Script>
+    <Price>6.02</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Huffaz Seamless Pipe Industries. [ DEFAULTER SEGMENT ]</Script>
+    <Price>10.02</Price>
+  </Scripts>
+  <Scripts>
+    <Script>International Industries Ltd.(XD)</Script>
+    <Price>102.96</Price>
+  </Scripts>
+  <Scripts>
+    <Script>International Steels Limited. (XD)</Script>
+    <Price>55.90</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Ittefaq Iron Industries Limited.</Script>
+    <Price>7.28</Price>
+  </Scripts>
+  <Scripts>
+    <Script>KSB Pumps Co Ltd.</Script>
+    <Price>105.50</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Mughal Iron &amp; Steels Ind Ltd.</Script>
+    <Price>69.65</Price>
+  </Scripts>
+</ArrayOfScripts>

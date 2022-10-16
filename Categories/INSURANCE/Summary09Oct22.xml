@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>Adamjee Insurance Co. Ltd.</Script>
+    <Price>29.63</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Askari Gen Insurance Co.</Script>
+    <Price>16.55</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Askari Life Assurance Company Ltd.</Script>
+    <Price>6</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Century Insurance Co.Ltd.</Script>
+    <Price>17</Price>
+  </Scripts>
+  <Scripts>
+    <Script>EFU Life Assurance Ltd.</Script>
+    <Price>191</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Habib Insurance Co Ltd.</Script>
+    <Price>5.86</Price>
+  </Scripts>
+  <Scripts>
+    <Script>IGI Holdings Limited.</Script>
+    <Price>97.99</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan General Insurance Co. [ DEFAULTER SEGMENT ]</Script>
+    <Price>6.38</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Reinsurance Comp.</Script>
+    <Price>7.42</Price>
+  </Scripts>
+  <Scripts>
+    <Script>PICIC Insurance Ltd. [ DEFAULTER SEGMENT ]</Script>
+    <Price>0.95</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Premier Insurance Limited.</Script>
+    <Price>5.54</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Reliance Insurance.</Script>
+    <Price>6.15</Price>
+  </Scripts>
+  <Scripts>
+    <Script>TPL Insurance Ltd.</Script>
+    <Price>26.37</Price>
+  </Scripts>
+  <Scripts>
+    <Script>United Insurance Company.</Script>
+    <Price>7.41</Price>
+  </Scripts>
+</ArrayOfScripts>

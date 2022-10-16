@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>Attock Cement Pak Ltd.</Script>
+    <Price>85.02</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Bestway Cement Limited.(XD)</Script>
+    <Price>132.02</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Cherat Cement Co. Ltd. (XD)</Script>
+    <Price>122.31</Price>
+  </Scripts>
+  <Scripts>
+    <Script>D. G. Khan Cement Co. Ltd.</Script>
+    <Price>61.53</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Dewan Cement Limited.</Script>
+    <Price>5.50</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Fauji Cement Co Ltd.</Script>
+    <Price>15.61</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Fecto Cement Ltd.</Script>
+    <Price>25.15</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Flying Cement Company Ltd.</Script>
+    <Price>8.36</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Gharibwal Cement Ltd.</Script>
+    <Price>20.50</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Kohat Cement Co. Ltd.</Script>
+    <Price>166.87</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Lucky Cement Limited.</Script>
+    <Price>511.86</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Maple Leaf Cement Factory Ltd.</Script>
+    <Price>28.83</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pioneer Cement Ltd.</Script>
+    <Price>73.39</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Safe Mix Concrete Ltd.</Script>
+    <Price>11.75</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Thatta Cement Company Ltd.</Script>
+    <Price>14.73</Price>
+  </Scripts>
+</ArrayOfScripts>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>Agritech Limited</Script>
+    <Price>6.65</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Archroma Pakistan Limited.</Script>
+    <Price>540</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Bawany Air Products Ltd. [ DEFAULTER SEGMENT ]</Script>
+    <Price>12.16</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Berger Paints Pakistan Ltd.</Script>
+    <Price>79.23</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Bifo Industries Ltd.</Script>
+    <Price>62</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Buxly Paints Ltd.</Script>
+    <Price>99.18</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Descon Oxychem Ltd.</Script>
+    <Price>22.11</Price>
+  </Scripts>
+  <Scripts>
+    <Script>DYNEA Pak.</Script>
+    <Price>178.30</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Engro Polymer &amp; Chemicals Ltd.</Script>
+    <Price>59.19</Price>
+  </Scripts>
+  <Scripts>
+    <Script>G3 Technologies Limited</Script>
+    <Price>8.47</Price>
+  </Scripts>
+  <Scripts>
+    <Script>G3 Technologies Limited-Class-B</Script>
+    <Price>2.03</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Ghani Global Holdings Limited.</Script>
+    <Price>16.38</Price>
+  </Scripts>
+  <Scripts>
+    <Script>ICI Pakistan Limited.</Script>
+    <Price>661.45</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Ittehad Chemical Ltd.</Script>
+    <Price>28.50</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Leiner Pak Gelantine Limited.</Script>
+    <Price>18.99</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Lotte Chemical Pakistan Ltd.</Script>
+    <Price>30.34</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Nimir Industrial Chemical Ltd.</Script>
+    <Price>77.99</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Nimir Resins Limited.</Script>
+    <Price>14.32</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Oxygen Limited.</Script>
+    <Price>131.06</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Sardar Chemical IndustriesLtd.</Script>
+    <Price>24.50</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Sitara Peroxide Limited</Script>
+    <Price>15.31</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Wah Noble Chemicals Ltd.</Script>
+    <Price>154.58</Price>
+  </Scripts>
+</ArrayOfScripts>

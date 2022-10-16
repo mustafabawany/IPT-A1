@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>Attock Refinery Limited.</Script>
+    <Price>150.46</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Cnergyico PK Limited.</Script>
+    <Price>4.95</Price>
+  </Scripts>
+  <Scripts>
+    <Script>National Refinary Ltd.</Script>
+    <Price>242.15</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Refinery Ltd.</Script>
+    <Price>17.13</Price>
+  </Scripts>
+</ArrayOfScripts>
