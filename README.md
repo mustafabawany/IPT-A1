@@ -27,3 +27,7 @@ that category.
 Note: To display all scripts and their prices, you can enhance your output from question 2 to achieve
 better performance.
 
+## Question 04: Displaying On A Web App
+
+Create a ASP.Net Page which will allow the user to perform all operations defined in Question 3 on a
+web page. All operations should not post the entire page to the server.
