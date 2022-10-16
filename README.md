@@ -30,7 +30,7 @@ Note: To display all scripts and their prices, you can enhance your output from 
 better performance.
 <br>
 <br>
-<img src="https://github.com/mustafabawany/Information-Processing-Technique-Assignment-01/blob/main/Output/DesktopOutput.png" , height="350px" , width="350px">
+<img src="https://github.com/mustafabawany/Information-Processing-Technique-Assignment-01/blob/main/Output/DesktopOutput.png">
 
 ## Question 04: Displaying On A Web App
 
@@ -38,3 +38,5 @@ Create a ASP.Net Page which will allow the user to perform all operations define
 web page. All operations should not post the entire page to the server.
 <br>
 <br>
+![Finished Website](https://github.com/mustafabawany/Information-Processing-Technique-Assignment-01/blob/main/Output/Web%20Output.png)
+![Finished Website](https://github.com/mustafabawany/Information-Processing-Technique-Assignment-01/blob/main/Output/Web%20Output1.png)
