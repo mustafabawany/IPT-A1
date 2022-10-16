@@ -1,0 +1,47 @@
+﻿body {
+    margin:0%;
+    padding: 0%;
+}
+
+.mynavbar{
+    padding: 1%;
+}
+
+.logo img{
+    margin-top: -15%;
+}
+
+.content{
+    color: white;
+    overflow: auto;
+    top: 180px;
+    position: relative;
+    text-align: center;
+}
+.mainpage{
+    margin-top: -5%;
+  margin-left: -6%;
+  position: relative;
+}
+
+.mytable{
+    margin-top: 5%;
+    padding: 3% 15%;
+}
+
+.mycontainer{
+    margin-top: 6%;
+}
+
+.mycontainer h1{
+    text-align: center;
+}
+
+.myrow{
+    margin-top: 4%;
+}
+
+.thumbnail :hover {
+    height: 80%;
+    width: 80%;
+}
