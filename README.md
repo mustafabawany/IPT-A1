@@ -1,5 +1,4 @@
 # Information-Processing-Technique-Assignment-01
-Information Processing Technique Assignment 01
 
 ## Question 01: Downloading A Web Page
 
