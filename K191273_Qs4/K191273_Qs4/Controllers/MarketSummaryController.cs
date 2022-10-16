@@ -15,14 +15,15 @@ namespace K191273_Qs4.Controllers
         public String extractCategory(String foldername)
         {
             String category = "";
-            category = foldername.Substring(20);
+            category = foldername.Substring(foldername.LastIndexOf("\\") + 1);
             return category;
         }
 
         // GET: MarketSummary/All
         public ActionResult All()
         {
-            foreach (string f in Directory.GetDirectories(@"E:\Lab02\Categories"))
+            var path = System.Web.Configuration.WebConfigurationManager.AppSettings["folderPath"].ToString();
+            foreach (string f in Directory.GetDirectories(@"E:\K191273_MustafaBawany\Categories"))
             {
                 var filename = Directory.GetFiles(f);
 
@@ -74,16 +75,17 @@ namespace K191273_Qs4.Controllers
             
             var searched_category = id;
             List<MarketSummary> tempList = new List<MarketSummary>();
+            var temp = "";
             foreach (MarketSummary script in listofScripts)
             {
-                var temp = script.Category.Replace("&", "and");
+                temp = script.Category.Replace("&", "and");
                 if (script.Category.ToLower() == searched_category.ToLower() || temp.ToLower() == searched_category.ToLower())
                 {
                     tempList.Add(new MarketSummary(script.Script, script.Price, script.Category));
                 }
             }
-            
-            return PartialView(tempList.ToList());
+
+            return View(tempList.ToList());
         }
     }
 }
